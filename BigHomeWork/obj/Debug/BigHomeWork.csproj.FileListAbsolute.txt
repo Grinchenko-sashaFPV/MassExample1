@@ -1,0 +1,15 @@
+F:\GitHub\ProductC#\BigHomeWork\BigHomeWork\bin\Debug\BigHomeWork.exe.config
+F:\GitHub\ProductC#\BigHomeWork\BigHomeWork\bin\Debug\BigHomeWork.exe
+F:\GitHub\ProductC#\BigHomeWork\BigHomeWork\bin\Debug\BigHomeWork.pdb
+F:\GitHub\ProductC#\BigHomeWork\BigHomeWork\obj\Debug\BigHomeWork.csprojAssemblyReference.cache
+F:\GitHub\ProductC#\BigHomeWork\BigHomeWork\obj\Debug\BigHomeWork.csproj.CoreCompileInputs.cache
+F:\GitHub\ProductC#\BigHomeWork\BigHomeWork\obj\Debug\BigHomeWork.exe
+F:\GitHub\ProductC#\BigHomeWork\BigHomeWork\obj\Debug\BigHomeWork.pdb
+D:\GitHub\ProjectsC#\BigHomeWork\BigHomeWork\bin\Debug\BigHomeWork.exe.config
+D:\GitHub\ProjectsC#\BigHomeWork\BigHomeWork\bin\Debug\BigHomeWork.exe
+D:\GitHub\ProjectsC#\BigHomeWork\BigHomeWork\bin\Debug\BigHomeWork.pdb
+D:\GitHub\ProjectsC#\BigHomeWork\BigHomeWork\obj\Debug\BigHomeWork.csproj.AssemblyReference.cache
+D:\GitHub\ProjectsC#\BigHomeWork\BigHomeWork\obj\Debug\BigHomeWork.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\ProjectsC#\BigHomeWork\BigHomeWork\obj\Debug\BigHomeWork.csproj.CoreCompileInputs.cache
+D:\GitHub\ProjectsC#\BigHomeWork\BigHomeWork\obj\Debug\BigHomeWork.exe
+D:\GitHub\ProjectsC#\BigHomeWork\BigHomeWork\obj\Debug\BigHomeWork.pdb
